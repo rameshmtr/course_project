@@ -8,5 +8,3 @@ log/
 db.sqlite3
 *.pyo
 *.orig
-
-**/migrations
