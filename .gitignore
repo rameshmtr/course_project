@@ -1,0 +1,12 @@
+#Ignore generted directories
+/out/
+venv
+log/
+*.pyc
+
+#Ignore generated files 
+db.sqlite3
+*.pyo
+*.orig
+
+**/migrations
